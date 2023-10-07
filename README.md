@@ -1,2 +1,2 @@
-# Tecnologia-de-informacao
-Disciplina de Tecnologia de informação, que eu estou aprendendo na faculdade.
+## Apresentação
+As tecnologias de informação e comunicação (TICs) estão presentes em nosso dia a dia, interferindo inclusive no comportamento da sociedade. Atualmente, as pessoas utilizam as TICs em inúmeras atividades do cotidiano, como fazer compras, estudar, namorar, chamar um táxi, entre outras inúmeras possibilidades. Nesta Unidade de Aprendizagem, você vai estudar um pouco mais acerca das tecnologias de informação e comunicação e seu papel na sociedade atual, resgatando a evolução dessas tecnologias. Além disso, você vai identificar as tecnologias presentes no dia a dia. Dessa forma, você vai poder identificar alguns desafios inerentes à presença das TICs na sociedade.
